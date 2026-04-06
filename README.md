@@ -33,7 +33,7 @@
 
 ## 📊 GitHub 统计
 
-![BrianLee-me's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianLee-me&show_icons=true&theme=default)
+![GitHub统计](https://github-readme-stats-one-bice.vercel.app/api?username=BrianLee-me&show_icons=true&role=OWNER,COLLABORATOR)
 
 ---
 
